@@ -1,0 +1,37 @@
+{
+  "os":  "macOS-15.6.1-arm64-arm-64bit",
+  "python":  "CPython 3.9.24",
+  "startedAt":  "2025-10-24T20:15:32.869084Z",
+  "program":  "/Users/prinks/MotionDet/visualise.ipynb",
+  "codePath":  "visualise.ipynb",
+  "codePathLocal":  "visualise.ipynb",
+  "git":  {
+    "remote":  "https://github.com/prinks-wiz/MotionDet",
+    "commit":  "a40b57161b8633867d4a2a6443ee62fa0e0556b9"
+  },
+  "email":  "pvijayba@andrew.cmu.edu",
+  "root":  "/Users/prinks/MotionDet",
+  "host":  "Priyankas-MacBook-Pro.local",
+  "executable":  "/Users/prinks/anaconda3/envs/motiondet/bin/python",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "488864178176"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "apple":  {
+    "name":  "Apple M1 Pro",
+    "ecpuCores":  2,
+    "pcpuCores":  6,
+    "gpuCores":  14,
+    "memoryGb":  16,
+    "swapTotalBytes":  "15032385536",
+    "ramTotalBytes":  "17179869184"
+  },
+  "writerId":  "02tvbbds40yxi5n4nisl64ww6h4f02vd"
+}

@@ -1,7 +1,7 @@
 
 numpy
 matplotlib
-datasets=2.16.0
+datasets==2.16.0
 torch
 torchvision
 pillow
@@ -11,3 +11,6 @@ notebook
 jupyterlab
 scikit-learn
 seaborn
+opencv-python
+transformers
+wandb
