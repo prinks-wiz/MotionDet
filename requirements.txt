@@ -1,0 +1,13 @@
+
+numpy
+matplotlib
+datasets=2.16.0
+torch
+torchvision
+pillow
+tqdm
+torchdiffeq
+notebook
+jupyterlab
+scikit-learn
+seaborn
